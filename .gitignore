@@ -1,3 +1,5 @@
 *.pyc
 *.csv
 secret.py
+.ipynb_checkpoints/
+.DS_Store
